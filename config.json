@@ -1,0 +1,47 @@
+[
+    {
+        "mac": "23-45-56-67-34-56",
+        "host": "192.0.0.1",
+        "cidr": "24",
+        "port": "8080",
+        "comment": "Fuji 1",
+        "debug": 0,
+        "aop": "HOST.WAKEUP"
+    },
+    {
+        "mac": "34-53-45-34-34-45",
+        "host": "192.0.0.1",
+        "cidr": "24",
+        "port": "8080",
+        "comment": "Fuji 2",
+        "debug": 0,
+        "aop": "HOST.WAKEUP"
+    },
+    {
+        "mac": "67-55-66-88-88-34",
+        "host": "192.0.0.1",
+        "cidr": "24",
+        "port": "8080",
+        "comment": "Fuji 3",
+        "debug": 0,
+        "aop": "HOST.WAKEUP"
+    },
+    {
+        "mac": "34-53-45-34-53-45",
+        "host": "192.0.0.1",
+        "cidr": "24",
+        "port": "8080",
+        "comment": "Fuji 4",
+        "debug": 0,
+        "aop": "HOST.WAKEUP"
+    },
+    {
+        "mac": "45-67-54-67-54-67",
+        "host": "192.0.0.1",
+        "cidr": "24",
+        "port": "8080",
+        "comment": "Fuji 5",
+        "debug": 0,
+        "aop": "HOST.WAKEUP"
+    }
+]
